@@ -35,11 +35,11 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 Here it might be helpful to include a high-level description of your final project. 
 - [Part I](final-project-part-one)
 - [Part II](final-project-part-two)
-- Part III(final-project-part-three)
+- [Part III](final-project-part-three)
 
 ## References
-_List any references you used here._
+_(Coming up) List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_(Coming Up) If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
 
