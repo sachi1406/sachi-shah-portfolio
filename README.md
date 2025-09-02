@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://sachi1406.github.io/sachi-shah-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
 This is my (Sachi Shah) public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
@@ -33,9 +33,9 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+- [Part I](final-project-part-one)
+- [Part II](final-project-part-two)
+- Part III(final-project-part-three)
 
 ## References
 _List any references you used here._
