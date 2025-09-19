@@ -53,9 +53,9 @@ Here is my final redesign (built in Tableau):
 </script>
 
 ## References
-- Visual Capitalist. (2023). *Cost of Mobile Data Worldwide*. [Link](https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/)  
+- Visual Capitalist. (2023). *Cost of Mobile Data Worldwide*. https://www.visualcapitalist.com/cost-of-mobile-data-worldwide/
 - Few, S. *Data Visualization Effectiveness Profile*.  
-- MakeoverMonday. [https://makeovermonday.co.uk](https://makeovermonday.co.uk)
+- MakeoverMonday. https://makeovermonday.co.uk
 
 ## AI acknowledgements
-AI tools (ChatGPT) were used to help phrase my critique ideas, polish written explanations and tableau steps for some conditions
+AI tools (ChatGPT) were used to help phrase my critique ideas, polish written explanations, tableau steps for some conditions and citation layout.
