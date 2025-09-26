@@ -74,7 +74,6 @@ These combined sources will allow me to compare real versus inflation-adjusted c
 | Kaggle – Hollywood Theatrical Market Synopsis | [Link](https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021) | U.S. market dataset (1995–2021) including average ticket prices. |  
 | Pollstar – Concert Ticket Price Index (coverage example) | [Link](https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/) | Annual average prices for Top 100 worldwide tours, as summarized in industry reports. |  
 | BLS Producer Price Index – Amusement & Theme Parks | [Link](https://www.bls.gov/ppi/factsheets/producer-price-index-introduced-for-amusement-and-theme-parks-naics-713110.htm) | Tracks changes in theme park admission charges (2006–present). |  
-| AllEars.net – Walt Disney World Ticket Price History | [Link](https://allears.net/walt-disney-world/wdw-planning/walt-disney-world-ticket-price-increase-history/) | Chronology of Disney World ticket price increases, freely accessible. |  
 | OECD – Average Annual Wages by Country | [Link](https://data.oecd.org/earnwage/average-wages.htm) | Wage data by country in constant USD PPP, used for affordability comparisons. |  
 | World Bank – Consumer Price Index (2010=100) | [Link](https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG) | Global CPI data for converting nominal ticket prices to real prices. |  
 | U.S. BLS CPI Sub-Index – Admissions to Movies, Theaters, Concerts | [Link](https://www.bls.gov/cpi/) | U.S. inflation index specific to entertainment admissions. |
