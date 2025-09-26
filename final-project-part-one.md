@@ -48,13 +48,16 @@ Our story arc begins with nostalgia (the affordable fun of the past), moves thro
   <img width="1153" height="593" alt="image" src="https://github.com/user-attachments/assets/a649b49a-c20a-47a2-bb4f-18f54fa7bfaa" />
 
 - *Disparity Slope Graph:* % increase since 1980 by category
-  <img width="514" height="433" alt="image" src="https://github.com/user-attachments/assets/41a96090-cdca-4665-8af6-a4b808e95c85" />
+
+   <br/><img width="514" height="433" alt="image" src="https://github.com/user-attachments/assets/41a96090-cdca-4665-8af6-a4b808e95c85" />
 
 - *Share of Household Spending:* how much does a household spend in each category
-  <img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/c6107af8-8e50-4fba-8c18-80ac7dfcf2e0" />
+
+   <br/><img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/c6107af8-8e50-4fba-8c18-80ac7dfcf2e0" />
  
 - *Calculator Visualization (Interactive):* user birth year → then vs now ticket prices, current wage → number of tickets affordable per category
-  <img width="874" height="558" alt="image" src="https://github.com/user-attachments/assets/d7f1918b-a271-4b33-98ee-c40c6974d879" />
+
+  <br/><img width="874" height="558" alt="image" src="https://github.com/user-attachments/assets/d7f1918b-a271-4b33-98ee-c40c6974d879" />
 
 
 # The data
