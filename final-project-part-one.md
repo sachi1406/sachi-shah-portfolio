@@ -36,7 +36,7 @@ Our story arc begins with nostalgia (the affordable fun of the past), moves thro
 
 
 
-## Initial sketches
+## Initial Sketches
 - *Timeline Line Graphs (1980–2025):* ticket (total of all 3 categories) price trends
   <img width="1171" height="499" alt="image" src="https://github.com/user-attachments/assets/586e3fa6-0bf1-4eb0-808c-2345e16d7033" />
 
@@ -60,15 +60,15 @@ Our story arc begins with nostalgia (the affordable fun of the past), moves thro
   <img width="874" height="558" alt="image" src="https://github.com/user-attachments/assets/d7f1918b-a271-4b33-98ee-c40c6974d879" />
 
 
-# The data
+# The Data
 For this project, I will use publicly accessible datasets that track ticket prices for movies, concerts, and theme parks over time, alongside wage and inflation data for affordability analysis. These datasets are drawn from reliable and recognized sources such as UNESCO, OECD, the World Bank, and the U.S. Bureau of Labor Statistics. Together, they provide both global and U.S.-specific coverage going back several decades.  
 
 The movie ticket datasets (UNESCO, NATO/The Numbers, and Kaggle) will help illustrate how cinema costs have changed over time, while concert ticket price data from Pollstar and CPI indices will highlight the sharp growth in live music costs. For theme parks, Disney’s historical ticket price archives and the BLS Producer Price Index will provide benchmarks for long-term changes. To calculate affordability, I will combine these entertainment cost datasets with OECD wage data and World Bank/BLS inflation indices to create metrics such as “hours of minimum wage per ticket.”  
 
 These combined sources will allow me to compare real versus inflation-adjusted costs, highlight which category of fun has become least affordable, and tie those trends into larger cultural shifts. All datasets are publicly accessible and can be exported in formats compatible with Tableau for visualization.  
 
-| Name | URL | Description |  
-|------|-----|-------------|  
+|    Name    |   URL   | Description |  
+|------------|---------|-------------|  
 | UNESCO Institute for Statistics – Feature Films Dataset | [Link](https://datafinder.qog.gu.se/dataset/une4#) | Global cinema dataset including admissions, box office, and average ticket prices (1970s–present). |  
 | NATO (Cinema United) / The Numbers – U.S. Movie Ticket Prices | [Link](https://www.the-numbers.com/market/) [Link|(https://docs.google.com/spreadsheets/d/1oEb9A8W8q8nodj3xMQBYJ0YvXbDqDCuq66KvpFBxgoc/edit?gid=0#gid=0) Historical U.S. average ticket prices; widely cited industry data. |  
 | Kaggle – Hollywood Theatrical Market Synopsis | [Link](https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021) | U.S. market dataset (1995–2021) including average ticket prices. |  
