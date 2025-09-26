@@ -49,30 +49,18 @@ Our story arc begins with nostalgia (the affordable fun of the past), moves thro
 
 - *Disparity Slope Graph:* % increase since 1980 by category
 
-   <br/><img width="514" height="433" alt="image" src="https://github.com/user-attachments/assets/41a96090-cdca-4665-8af6-a4b808e95c85" />
+   <img width="514" height="433" alt="image" src="https://github.com/user-attachments/assets/41a96090-cdca-4665-8af6-a4b808e95c85" />
 
 - *Share of Household Spending:* how much does a household spend in each category
 
-   <br/><img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/c6107af8-8e50-4fba-8c18-80ac7dfcf2e0" />
+   <img width="855" height="481" alt="image" src="https://github.com/user-attachments/assets/c6107af8-8e50-4fba-8c18-80ac7dfcf2e0" />
  
 - *Calculator Visualization (Interactive):* user birth year → then vs now ticket prices, current wage → number of tickets affordable per category
 
-  <br/><img width="874" height="558" alt="image" src="https://github.com/user-attachments/assets/d7f1918b-a271-4b33-98ee-c40c6974d879" />
+  <img width="874" height="558" alt="image" src="https://github.com/user-attachments/assets/d7f1918b-a271-4b33-98ee-c40c6974d879" />
 
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
-
 For this project, I will use publicly accessible datasets that track ticket prices for movies, concerts, and theme parks over time, alongside wage and inflation data for affordability analysis. These datasets are drawn from reliable and recognized sources such as UNESCO, OECD, the World Bank, and the U.S. Bureau of Labor Statistics. Together, they provide both global and U.S.-specific coverage going back several decades.  
 
 The movie ticket datasets (UNESCO, NATO/The Numbers, and Kaggle) will help illustrate how cinema costs have changed over time, while concert ticket price data from Pollstar and CPI indices will highlight the sharp growth in live music costs. For theme parks, Disney’s historical ticket price archives and the BLS Producer Price Index will provide benchmarks for long-term changes. To calculate affordability, I will combine these entertainment cost datasets with OECD wage data and World Bank/BLS inflation indices to create metrics such as “hours of minimum wage per ticket.”  
@@ -82,7 +70,7 @@ These combined sources will allow me to compare real versus inflation-adjusted c
 | Name | URL | Description |  
 |------|-----|-------------|  
 | UNESCO Institute for Statistics – Feature Films Dataset | [Link](https://datafinder.qog.gu.se/dataset/une4#) | Global cinema dataset including admissions, box office, and average ticket prices (1970s–present). |  
-| NATO (Cinema United) / The Numbers – U.S. Movie Ticket Prices | [Link](https://www.the-numbers.com/market/) | Historical U.S. average ticket prices; widely cited industry data. |  
+| NATO (Cinema United) / The Numbers – U.S. Movie Ticket Prices | [Link](https://www.the-numbers.com/market/) [Link|(https://docs.google.com/spreadsheets/d/1oEb9A8W8q8nodj3xMQBYJ0YvXbDqDCuq66KvpFBxgoc/edit?gid=0#gid=0) Historical U.S. average ticket prices; widely cited industry data. |  
 | Kaggle – Hollywood Theatrical Market Synopsis | [Link](https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021) | U.S. market dataset (1995–2021) including average ticket prices. |  
 | Pollstar – Concert Ticket Price Index (coverage example) | [Link](https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/) | Annual average prices for Top 100 worldwide tours, as summarized in industry reports. |  
 | BLS Producer Price Index – Amusement & Theme Parks | [Link](https://www.bls.gov/ppi/factsheets/producer-price-index-introduced-for-amusement-and-theme-parks-naics-713110.htm) | Tracks changes in theme park admission charges (2006–present). |  
@@ -98,7 +86,7 @@ These combined sources will allow me to compare real versus inflation-adjusted c
 - *Output:* A polished, public-facing project titled: “The Price of Fun: Why Entertainment is Becoming a Luxury”  
 
 ## References
-The following sources were reviewed during the project for context, background information, and supplementary insights. While they were not used directly in the final dataset table, they informed framing, historical context, and validation of the trends presented.  
+The following sources were reviewed during the project for context, background information, and supplementary insights. While they might not be used directly in the final dataset table, they will inform framing, historical context, and validation of the trends.  
 
 - American TV. Cost of a Movie Ticket in Each State.  
   [https://www.americantv.com/cost-of-a-movie-ticket-in-each-state.php](https://www.americantv.com/cost-of-a-movie-ticket-in-each-state.php)  
@@ -112,13 +100,10 @@ The following sources were reviewed during the project for context, background i
 - Statista. Average Ticket Price for Concerts in the U.S. since 1990.  
   [https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/](https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/)  
 
-- The Numbers. Historical Market Data for the U.S. Movie Industry.  
-  [https://www.the-numbers.com/market/](https://www.the-numbers.com/market/)  
-
 - Box Office Mojo. Movie Ticket Pricing Reports.  
   [https://www.boxofficemojo.com/about/](https://www.boxofficemojo.com/about/)  
 
-These references are useful for validation, anecdotal context, and potential case studies (e.g., Taylor Swift resale markets, Disneyland pricing trends), though they were not treated as primary structured datasets for analysis.  
+These references are useful for validation, anecdotal context, and potential case studies (e.g., Taylor Swift resale markets, Disneyland pricing trends), though they might not be treated as primary structured datasets for analysis.  
 
 
 ## AI acknowledgements
