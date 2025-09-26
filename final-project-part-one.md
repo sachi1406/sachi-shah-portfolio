@@ -70,7 +70,7 @@ These combined sources will allow me to compare real versus inflation-adjusted c
 |    Name    |   URL   | Description |  
 |------------|---------|-------------|  
 | UNESCO Institute for Statistics – Feature Films Dataset | [Link](https://datafinder.qog.gu.se/dataset/une4#) | Global cinema dataset including admissions, box office, and average ticket prices (1970s–present). |  
-| NATO (Cinema United) / The Numbers – U.S. Movie Ticket Prices | [Link](https://www.the-numbers.com/market/) [Link|(https://docs.google.com/spreadsheets/d/1oEb9A8W8q8nodj3xMQBYJ0YvXbDqDCuq66KvpFBxgoc/edit?gid=0#gid=0) Historical U.S. average ticket prices; widely cited industry data. |  
+| NATO (Cinema United) / The Numbers – U.S. Movie Ticket Prices | [Link](https://www.the-numbers.com/market/) [Link](https://docs.google.com/spreadsheets/d/1oEb9A8W8q8nodj3xMQBYJ0YvXbDqDCuq66KvpFBxgoc/edit?gid=0#gid=0) Historical U.S. average ticket prices; widely cited industry data. |  
 | Kaggle – Hollywood Theatrical Market Synopsis | [Link](https://www.kaggle.com/datasets/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021) | U.S. market dataset (1995–2021) including average ticket prices. |  
 | Pollstar – Concert Ticket Price Index (coverage example) | [Link](https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/) | Annual average prices for Top 100 worldwide tours, as summarized in industry reports. |  
 | BLS Producer Price Index – Amusement & Theme Parks | [Link](https://www.bls.gov/ppi/factsheets/producer-price-index-introduced-for-amusement-and-theme-parks-naics-713110.htm) | Tracks changes in theme park admission charges (2006–present). |  
