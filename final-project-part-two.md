@@ -85,7 +85,7 @@ Narrative Flow
   [https://www.bls.gov/cex/](https://data.bls.gov/dataViewer/view/timeseries/CXU620211LB1203M)  
 
 - LISEP (Lawrence Institute for Scientific and Economic Research). Fun on the Run: Basic recreation beyond most family budgets, LISEP research shows.
-  [https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research](https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research-shows#:~:text=LISEP%20found%20that%20the%20cost,parent%2C%20two%2Dchild%20family)
+[https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research](https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research-shows#:~:text=LISEP%20found%20that%20the%20cost,parent%2C%20two%2Dchild%20family)
 
 - The New York Times. Movie Theaters Struggle as Streaming Dominates.  
   [https://www.nytimes.com/](https://www.nytimes.com/2024/12/17/business/media/streaming-movies-theaters.html)  
