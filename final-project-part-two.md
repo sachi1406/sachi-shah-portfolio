@@ -51,9 +51,9 @@ Narrative Flow
 
 ## Interview findings
 ### Participants
-Student 1 – MISM, mid-20s, heavy moviegoer
-Student 2 – BIDA, mid-20s, follows live music scene
-Student 3 – MSDS, early-20s, neutral to all entertainment
+- Student 1 – MISM, mid-20s, heavy moviegoer
+- Student 2 – BIDA, mid-20s, follows live music scene
+- Student 3 – MSDS, early-20s, neutral to all entertainment
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|-------------|-------------|-------------|
@@ -67,8 +67,8 @@ Student 3 – MSDS, early-20s, neutral to all entertainment
 # Identified changes for Part III
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Concert resale explanation too text-heavy                       | Add a clearer visual (boxplot or icon-based breakdown) and trim explanatory text.          |
+|------------------------------------------|---------------------------------------------------------------------------------
+| Story framing                             | Rearrange certain parts of the wireframe for better story.
 | Drivers section felt rushed                                     | Use a cleaner infographic layout with 3–4 big icons instead of dense bullets.              |
 | $100 budget tool unclear                                        | Add stronger intro text + example (e.g., “In 1990, $100 = 10 movies. Today = 1 concert.”). |
 | CTA felt generic                                                | Customize CTA with separate “Family” and “Young Professional” angles.                      |
@@ -82,25 +82,13 @@ Student 3 – MSDS, early-20s, neutral to all entertainment
   [https://www.bea.gov/data/consumer-spending/main](https://www.bea.gov/data/consumer-spending/main)  
 
 - Bureau of Labor Statistics (BLS). Consumer Expenditure Survey – Entertainment Spending.  
-  [https://www.bls.gov/cex/](https://www.bls.gov/cex/)  
+  [https://www.bls.gov/cex/](https://data.bls.gov/dataViewer/view/timeseries/CXU620211LB1203M)  
 
-- Motion Picture Association (MPA). Theme Report 2023: Global Film & TV Industry Statistics.  
-  [https://www.motionpictures.org/research-docs/](https://www.motionpictures.org/research-docs/)  
-
-- National Association of Theatre Owners (NATO). Theatrical Market Statistics.  
-  [https://www.natoonline.org/data/theatrical-market-statistics/](https://www.natoonline.org/data/theatrical-market-statistics/)  
-
-- Statista. Average Ticket Price for Concerts in the U.S. since 1990.  
-  [https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/](https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/)  
-
-- Alternative Nation. Average Concert Ticket Price in 2024 ($135.92, +41% since 2019).  
-  [https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/](https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/)  
-
-- Pew Research Center. Streaming Wars: How Americans Watch TV and Movies in 2023.  
-  [https://www.pewresearch.org/](https://www.pewresearch.org/)  
+- LISEP (Lawrence Institute for Scientific and Economic Research). Fun on the Run: Basic recreation beyond most family budgets, LISEP research shows.
+  [https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research](https://www.lisep.org/content/fun-on-the-run-basic-recreation-beyond-most-family-budgets-lisep-research-shows#:~:text=LISEP%20found%20that%20the%20cost,parent%2C%20two%2Dchild%20family)
 
 - The New York Times. Movie Theaters Struggle as Streaming Dominates.  
-  [https://www.nytimes.com/](https://www.nytimes.com/)  
+  [https://www.nytimes.com/](https://www.nytimes.com/2024/12/17/business/media/streaming-movies-theaters.html)  
 
 ## AI acknowledgements
 I used ChatGPT to:
