@@ -1,68 +1,111 @@
 | [home page](https://sachi1406.github.io/sachi-shah-portfolio/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Thoughts after Part 1
+After completing Part I and reviewing instructor feedback, I narrowed the scope of my project to focus specifically on three cultural touchpoints: movies, concerts, and theme parks. The feedback emphasized the importance of clarifying what “entertainment” means, adjusting for inflation, and building a stronger call-to-action (CTA).
 
-Text here!
+I refined my narrative to show not just how prices have risen, but also how affordability has changed relative to wages. I also clarified my intended audience: the general public as the primary audience, with a secondary perspective for industry stakeholders who shape pricing and accessibility.
+
+# Wireframes / storyboards
+Using the sketches and outline from Part I, I developed a higher-fidelity Shorthand draft. The story follows a scroll-driven structure that mixes nostalgic hooks, big-number snapshots, and affordability metrics.
+
+👉 [View my Shorthand Story Draft](https://preview.shorthand.com/uzlri1TM8BN2ehq0)
+
+Narrative Flow
+
+- Hero / Hook – “The Price of Fun: Why Entertainment is Becoming a Luxury” (nostalgic imagery + opening stat)
+- Scope & Method – focus on three experiences (movies, concerts, parks), inflation-adjusted, affordability measured in hours of work
+- Quick Snapshot – big-number comparison tiles (1980 vs 2024 ticket prices)
+- Evidence 1: Price Trends – line chart showing real price growth (1980–2024)
+- Evidence 2: Affordability – bar chart showing hours of work per ticket
+- Evidence 3: Concert Skew – boxplot explaining superstar/resale skew
+- Drivers – infographic bullets (premium experiences, resale/fees, consolidation, wage stagnation)
+- Case Studies – Taylor Swift resale, Disney single-day ticket, local parks as contrast
+- Interactive Budget Tool – “$100 Fun Budget Then vs Now”
+- CTA / Reflection – options for public, industry, policy audiences
+- Data & Methods Appendix – sources + notes on limitations
 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+- Primary audience: the general public, especially young professionals and families who experience entertainment as part of everyday life.
+- Secondary audience: industry stakeholders (studios, promoters, parks) who influence pricing strategies.
+- Approach to identifying participants: I recruited three peers from different programs (MISM, BIDA, MEM) to simulate a diverse general audience. They were asked to scroll through my Shorthand draft and respond to a short interview script.
 
-Text here!
+## Research Goals
+- Test clarity of the overall narrative.
+- Assess whether visualizations make the message stronger.
+- Identify which sections are confusing or overwhelming.
+- Capture positive reactions and most memorable elements.
+- Gather concrete suggestions for improvement.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+| Comprehension     | “What do you think this story is about?”                 |
+| Effectiveness of visuals     | “Did the charts/visuals help you understand the story? Which stood out most?”                 |
+| Clarity     | “Were there any sections that confused you or felt too data-heavy?”                 |
+| Positive feedback  |	“What part of the story did you enjoy the most?”   |
+| Constructive feedback	 | “What is one thing you would change to improve the story?”   |
 
-
-Text here!
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+### Participants
+Student 1 – MISM, mid-20s, heavy moviegoer
+Student 2 – BIDA, mid-20s, follows live music scene
+Student 3 – MSDS, early-20s, neutral to all entertainment
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
+|-------------------------|-------------|-------------|-------------|
+| What is the story about? | “It’s showing how entertainment got pricier and harder to afford.” | “Basically concerts and movies cost way more now compared to wages.” | “Family outings like Disney are becoming luxury events.”           |
+| Did visuals help?        | “Yes, the hours-of-work bar chart was easiest to grasp.”           | “The line chart on concerts was very clear, especially the spike.”   | “The side-by-side case studies worked well, Disney was relatable.” |
+| Confusing parts?         | “Concert resale explanation was a bit dense.”                      | “Too many bullets in the drivers section, felt rushed.”              | “The $100 budget tool needs clearer framing.”                      |
+| Favorite part?           | “The nostalgic hook with movie ticket comparison.”                 | “The affordability chart.”                                           | “The Disney vs local park contrast.”                               |
+| Change to improve?       | “Make the resale section more visual, less text.”                  | “Simplify the bullet list.”                                          | “Add more family perspective in CTA.”                              |
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+| Concert resale explanation too text-heavy                       | Add a clearer visual (boxplot or icon-based breakdown) and trim explanatory text.          |
+| Drivers section felt rushed                                     | Use a cleaner infographic layout with 3–4 big icons instead of dense bullets.              |
+| $100 budget tool unclear                                        | Add stronger intro text + example (e.g., “In 1990, $100 = 10 movies. Today = 1 concert.”). |
+| CTA felt generic                                                | Customize CTA with separate “Family” and “Young Professional” angles.                      |
+| Overall positive response to nostalgia and affordability charts | Keep these as anchor sections, polish formatting.                                          |
 
-> ...include any final thoughts you have here. 
+<b>Final thoughts</b>: The interviews confirmed that the affordability angle (hours of work per ticket) is the most powerful, and that relatable case studies (Disney, Taylor Swift) make the data more human. The main work for Part III will be simplifying sections that feel too dense and polishing the interactive element.
 
-Text here!
-
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
 
 ## References
-_List any references you used here._
+- Bureau of Economic Analysis (BEA). Personal Consumption Expenditures (Entertainment & Recreation).  
+  [https://www.bea.gov/data/consumer-spending/main](https://www.bea.gov/data/consumer-spending/main)  
+
+- Bureau of Labor Statistics (BLS). Consumer Expenditure Survey – Entertainment Spending.  
+  [https://www.bls.gov/cex/](https://www.bls.gov/cex/)  
+
+- Motion Picture Association (MPA). Theme Report 2023: Global Film & TV Industry Statistics.  
+  [https://www.motionpictures.org/research-docs/](https://www.motionpictures.org/research-docs/)  
+
+- National Association of Theatre Owners (NATO). Theatrical Market Statistics.  
+  [https://www.natoonline.org/data/theatrical-market-statistics/](https://www.natoonline.org/data/theatrical-market-statistics/)  
+
+- Statista. Average Ticket Price for Concerts in the U.S. since 1990.  
+  [https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/](https://www.statista.com/statistics/190140/average-us-ticket-price-for-concerts-since-1990/)  
+
+- Alternative Nation. Average Concert Ticket Price in 2024 ($135.92, +41% since 2019).  
+  [https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/](https://www.alternativenation.net/metallica-u2-ticket-prices-are-unaffordable/)  
+
+- Pew Research Center. Streaming Wars: How Americans Watch TV and Movies in 2023.  
+  [https://www.pewresearch.org/](https://www.pewresearch.org/)  
+
+- The New York Times. Movie Theaters Struggle as Streaming Dominates.  
+  [https://www.nytimes.com/](https://www.nytimes.com/)  
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to:
+- Refine my narrative structure from Part I feedback.
+- Draft the wireframes/storyboards.
+- Generate interview script questions and organize findings into tables.
+I created the Shorthand draft independently and will build visualizations in Tableau/Datawrapper.
 
